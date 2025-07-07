@@ -1,0 +1,12 @@
+* {
+    --background-color: #fff;
+    --text-color: #000; 
+}
+
+body{
+    background-color: var(--background-color);
+}
+
+p{
+    color: var(--text-color) 
+}
