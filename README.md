@@ -1,15 +1,17 @@
 # Projeto-Site
 
-Projeto-Site é um projeto sendo criado por 16 alunos do Terceiro ano de Desenvolvimento de Sistemas. O projeto é um site feito para estudantes poderem organizar seus horários de estudo, facilitar o aprendizado e definirem metas de aprendizado.
+Projeto-Site é um projeto sendo criado por 16 alunos do Terceiro ano de Desenvolvimento de Sistemas. <br>
+O projeto é um site feito para que estudantes possam organizar seus horários de estudo, facilitar o aprendizado e definirem metas de aprendizado.
 
 ---
 
 > [!IMPORTANT]
-> Este projeto estará em hiato até dia 28 de julho.
-> Motivo: Estamos de Férias durante o mês de julho. :shipit:
+> Este projeto estará em hiato até dia 28 de julho. <br>
+> Motivo: nós estaremos de Férias durante o mês de julho. :shipit:
 
 > [!WARNING]
-> O projeto ainda está sendo trabalhado, caso econtre bugs no site ou no código reporte-os para nós, e tentaremos arrumar o mais rápido o possível.
+> O projeto ainda está sendo trabalhado. <br>
+> Caso encontre bugs no site ou no código reporte-os para nós, e tentaremos arrumar o mais rápido o possível.
 
 ---
 
@@ -44,4 +46,5 @@ As ultimas coisas que serão feitas dentro do projeto.
 
 ## Lista de Tarefas (To-Do List)
 
-- [ ] Adicionar uma lista de tarefas.
+- [ ] Adicionar o nome de todos os **colaboradores na criação do site** em uma pagina especifica.
+- [ ] Continuar/Finalizar a lista de tarefas.
