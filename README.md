@@ -5,9 +5,11 @@ O projeto é um site feito para que estudantes possam organizar seus horários d
 
 ---
 
-> [!IMPORTANT]
+<!--
+[!IMPORTANT]
 > Este projeto estará em hiato até dia 28 de julho. <br>
 > Motivo: nós estaremos de Férias durante o mês de julho. :shipit:
+-->
 
 > [!WARNING]
 > O projeto ainda está sendo trabalhado. <br>
