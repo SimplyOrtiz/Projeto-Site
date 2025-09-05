@@ -1,6 +1,6 @@
 # Projeto-Site
 
-Projeto-Site é um projeto sendo criado por 16 alunos do Terceiro ano de Desenvolvimento de Sistemas. <br>
+Projeto-Site é um projeto sendo criado por 17 alunos do Terceiro ano de Desenvolvimento de Sistemas. <br>
 O projeto é um site feito para que estudantes possam organizar seus horários de estudo, facilitar o aprendizado e definirem metas de aprendizado.
 
 ---
