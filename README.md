@@ -1,13 +1,48 @@
-# Projeto-Site
+# Projeto-Feira-2025
 
-Projeto-Site é um projeto sendo criado por 17 alunos do Terceiro ano de Desenvolvimento de Sistemas. <br>
-O projeto é um site feito para que estudantes possam organizar seus horários de estudo, facilitar o aprendizado e definirem metas de aprendizado.
+Este projeto é um site que está sendo criado por 17 alunos do Terceiro ano de Desenvolvimento de Sistemas. <br>
 
 ---
 
 > [!WARNING]
 > O projeto ainda está sendo trabalhado. <br>
 > Caso encontre bugs no site ou no código reporte-os para nós, e tentaremos arrumar o mais rápido o possível.
+
+---
+
+**Contribuidores do projeto:** *(Incompleto)*
+
+- [@SimplyOrtiz](https://www.github.com/SimplyOrtiz) (Líder Geral do Projeto + Programador)
+
+Pesquisa e Levantamento:
+- Tecnologias Agrícola
+  - [@...](https://www.github.com/)
+  - [@...](https://www.github.com/)
+- Comunicação
+  - [@...](https://www.github.com/)
+  - [@...](https://www.github.com/)
+- Robótica
+  - [@...](https://www.github.com/)
+  - [@RenatoFirefox](https://www.github.com/RenatoFirefox)
+- Tecnologias Portáteis
+  - [@...](https://www.github.com/)
+  - [@...](https://www.github.com/)
+  
+Prototipagem e Design:
+- [@BurunoRodri](https://www.github.com/BurunoRodri)
+- [@...](https://www.github.com/)
+- [@diegadas-css](https://www.github.com/diegadas-css)
+- [@...](https://www.github.com/)
+- [@Samuelodeiamaika](https://www.github.com/Samuelodeiamaika)
+
+Desenvolvimento:
+- [@...](https://www.github.com/)
+- [@...](https://www.github.com/)
+- [@...](https://www.github.com/)
+- [@...](https://www.github.com/)
+- [@Matheusoliveira-05](https://www.github.com/Matheusoliveira-05)
+- [@...](https://www.github.com/)
+
 
 <!---
 
