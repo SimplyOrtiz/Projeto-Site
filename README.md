@@ -5,48 +5,14 @@ O projeto é um site feito para que estudantes possam organizar seus horários d
 
 ---
 
-<!--
-[!IMPORTANT]
-> Este projeto estará em hiato até dia 28 de julho. <br>
-> Motivo: nós estaremos de Férias durante o mês de julho. :shipit:
--->
-
 > [!WARNING]
 > O projeto ainda está sendo trabalhado. <br>
 > Caso encontre bugs no site ou no código reporte-os para nós, e tentaremos arrumar o mais rápido o possível.
 
----
-
-## Etapas do Projeto
-
-Uma lista de etapas que serão feitas durante o inicio, a criação e a finalização do projeto.
-
-#### Etapas Iníciais
-
-O básico para começar o desenvolvimento no projeto.
-
-- [x] Criar repositório
-- [x] Criar pastas Base
-- [ ] Iniciar o desenvolvimento do site
-
-#### Etapas do Desenvolvimento
-
-As partes do projeto a serem feitas.
-
-- [ ] Front-End
-- [ ] Back-End
-- [ ] Banco de Dados
-
-#### Etapas Finais
-
-As ultimas coisas que serão feitas dentro do projeto.
-
-- [ ] Finalizar o Projeto
-- [ ] Apresentar o Projeto
-
----
+<!---
 
 ## Lista de Tarefas (To-Do List)
 
 - [ ] Adicionar o nome de todos os **colaboradores na criação do site** em uma pagina especifica.
 - [ ] Continuar/Finalizar a lista de tarefas.
+-->
