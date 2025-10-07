@@ -36,7 +36,7 @@ Prototipagem e Design:
 - [@Samuelodeiamaika](https://www.github.com/Samuelodeiamaika)
 
 Desenvolvimento:
-- [@...](https://www.github.com/)
+- [@C4rloos](https://www.github.com/C4rloos)
 - [@...](https://www.github.com/)
 - [@...](https://www.github.com/)
 - [@...](https://www.github.com/)
