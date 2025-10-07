@@ -41,7 +41,7 @@ Desenvolvimento:
 - [@...](https://www.github.com/)
 - [@...](https://www.github.com/)
 - [@Matheusoliveira-05](https://www.github.com/Matheusoliveira-05)
-- [@...](https://www.github.com/)
+- [@pedrolimah](https://www.github.com/pedrolimah)
 
 
 <!---
