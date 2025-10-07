@@ -52,6 +52,11 @@ body {
     border-radius: 100%;
 }
 
+img.logo:hover {
+    transition: 250ms;
+    filter: drop-shadow(2px 4px 6px black);
+    transform: scale(1.2);
+}
 
 /* Conteúdo da página */
 .container {
