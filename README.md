@@ -36,12 +36,12 @@ Prototipagem e Design:
 - [@Samuelodeiamaika](https://www.github.com/Samuelodeiamaika)
 
 Desenvolvimento:
-- [@C4rloos](https://www.github.com/C4rloos)
+- [@...](https://www.github.com/)
 - [@...](https://www.github.com/)
 - [@...](https://www.github.com/)
 - [@...](https://www.github.com/)
 - [@Matheusoliveira-05](https://www.github.com/Matheusoliveira-05)
-- [@...](https://www.github.com/)
+- [@pedrolimah](https://www.github.com/pedrolimah)
 
 
 <!---
