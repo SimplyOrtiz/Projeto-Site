@@ -16,7 +16,7 @@ Este projeto é um site que está sendo criado por 17 alunos do Terceiro ano de 
 
 Pesquisa e Levantamento:
 - Tecnologias Agrícola
-  - [@...](https://www.github.com/)
+  - [@manoNoel](https://www.github.com/manoNoel)
   - [@...](https://www.github.com/)
 - Comunicação
   - [@...](https://www.github.com/)
@@ -36,10 +36,8 @@ Prototipagem e Design:
 - [@Samuelodeiamaika](https://www.github.com/Samuelodeiamaika)
 
 Desenvolvimento:
-- [@...](https://www.github.com/)
-- [@...](https://www.github.com/)
-- [@...](https://www.github.com/)
-- [@...](https://www.github.com/)
+- [@C4rloos](https://www.github.com/C4rloos)
+- [@manoNoel](https://www.github.com/manoNoel)
 - [@Matheusoliveira-05](https://www.github.com/Matheusoliveira-05)
 - [@pedrolimah](https://www.github.com/pedrolimah)
 
