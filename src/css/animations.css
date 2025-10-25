@@ -1,0 +1,21 @@
+/* arrow floating up and down */
+.arrow {
+  display: inline-block;
+  animation: arrowUpDown 1s ease-in-out infinite alternate;
+}
+
+@keyframes arrowUpDown {
+  from { transform: translateY(0); }
+  to { transform: translateY(12px); }
+}
+
+/* arrow floating left and right */
+.arrow-right {
+  display: inline-block;
+  animation: arrowLeftRight 1s ease-in-out infinite alternate;
+}
+
+@keyframes arrowLeftRight {
+  from { transform: translateX(0); }
+  to { transform: translateX(-12px); }
+}
