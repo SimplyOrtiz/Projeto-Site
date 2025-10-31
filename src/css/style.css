@@ -102,12 +102,14 @@ img.logo:active{
 .hero h1 {
     font-size: 3rem;
     margin-bottom: 1rem;
+    filter: drop-shadow(0px 0px 25px #ffffff);
     animation: fadeInDown 1s ease-in-out;
 }
 
 .hero p {
     font-size: 1.2rem;
     margin-bottom: 2rem;
+    filter: drop-shadow(0px 0px 10px #ffffff);
     animation: fadeInUp 1s ease-in-out;
 }
 
@@ -120,6 +122,7 @@ img.logo:active{
     text-decoration: none;
     border-radius: 50px;
     font-weight: bold;
+    filter: drop-shadow(0px 0px 85px cyan);
     transition: background-color 0.3s ease;
 }
 
