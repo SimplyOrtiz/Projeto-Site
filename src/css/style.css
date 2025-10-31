@@ -177,7 +177,7 @@ img.logo:active{
     height: 80px;
     margin-bottom: 1rem;
     user-select: none;
-    filter: invert(1);
+    /*filter: invert(1);*/
 }
 
 /* --- Rodapé --- */
