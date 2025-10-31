@@ -74,7 +74,7 @@ img.logo:active{
 
 /* --- Cabeçalho (Hero) --- */
 .hero {
-    background: url('../res/BeatifulSunset.png') no-repeat center center/cover;
+    background: url('../res/bela-vista-da-cidade.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     justify-content: center;
