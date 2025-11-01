@@ -37,15 +37,5 @@ Prototipagem e Design:
 -->
 Desenvolvimento:
 - [@C4rloos](https://www.github.com/C4rloos)
-- [@manoNoel](https://www.github.com/manoNoel)
 - [@Matheusoliveira-05](https://www.github.com/Matheusoliveira-05)
-- [@pedrolimah](https://www.github.com/pedrolimah)
-
-
-<!---
-
-## Lista de Tarefas (To-Do List)
-
-- [ ] Adicionar o nome de todos os **colaboradores na criação do site** em uma pagina especifica.
-- [ ] Continuar/Finalizar a lista de tarefas.
--->
+<!--- [@pedrolimah](https://www.github.com/pedrolimah)-->
