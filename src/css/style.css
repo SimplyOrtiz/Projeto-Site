@@ -113,6 +113,19 @@ img.logo:active{
     animation: fadeInUp 1s ease-in-out;
 }
 
+p.image-credits{
+    position: absolute;
+    font-size: 0.6rem;
+
+    right: 0;
+    bottom: 0;
+    padding-right: 2em;
+}
+
+p.image-credits a{
+    color: cyan;
+}
+
 /* --- Botão CTA --- */
 .cta-button {
     display: inline-block;
@@ -244,6 +257,10 @@ footer {
 
     .hero p {
         font-size: 1rem;
+    }
+
+    p.image-credits{
+        font-size: 0.5rem;
     }
 
     .cards-container, .guide-container, .materials-list {
