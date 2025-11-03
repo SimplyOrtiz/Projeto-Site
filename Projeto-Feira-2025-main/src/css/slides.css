@@ -1,0 +1,124 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  font-family: system-ui, sans-serif;
+}
+
+/* Container for horizontal scroll */
+.scroll-container {
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+  overflow-y: hidden;
+  height: 100vh;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  scrollbar-width: none; /* hide scrollbar on Firefox */
+}
+.scroll-container::-webkit-scrollbar {
+  display: none; /* hide scrollbar on Chrome/Safari */
+}
+
+.panel {
+  flex: 0 0 100%;
+  width: 100%;
+  height: 100vh;
+
+  scroll-snap-align: start;
+
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 2rem;
+  color: white;
+}
+
+.scroll-down{
+  position: absolute;
+  bottom: 2em;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.scroll-down .arrow{
+  position: relative;
+  top: 5px;
+  margin: 0 auto;
+  width: 20px;
+  height: 20px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 11 7'%3E%3Cpath fill='%23FFFCE1' d='M1.044.359.5.949l4.728 5.128.272.282.272-.282L10.5.948l-.544-.59L5.5 5.193 1.044.359Z'/%3E%3C/svg%3E");
+}
+
+#slider-counter{
+  position: absolute;
+  bottom: 1em;
+  right: 1em;
+
+  color: wheat;
+  
+  z-index: 999;
+}
+
+/* Just to make them visible */
+.panel:nth-child(1) {
+  /*background: #222;*/
+  background-image: url("https://picsum.photos/id/241/1920/1080");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* Mobile: vertical stacking instead */
+@media (max-width: 768px) {
+  html, body {
+    overflow: auto;
+  }
+  .scroll-container {
+    flex-direction: column;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-snap-type: y mandatory;
+  }
+  .panel {
+    flex: none;
+    scroll-snap-align: start;
+    width: 100%;
+    height: 100vh;
+  }
+}
+.panel:nth-child(2) {
+    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
+}
+
+.panel:nth-child(3) {
+    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
+}
+
+.panel:nth-child(4) {
+    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
+}
+
+.panel:nth-child(5) {
+    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
+}
+
+.panel:nth-child(6) {
+    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
+}
+
+.panel:nth-child(7) {
+    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
+}
+
+.panel:nth-child(8) {
+    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
+}
