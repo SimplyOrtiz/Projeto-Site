@@ -84,6 +84,17 @@ img.logo:active{
     position: relative;
 }
 
+.hero.about{
+    background: url('../res/renderizacao-3d-de-um-plano-de-fundo-de-projeto-de-comunicacoes-de-rede-com-profundidade-de-campo-rasa.jpg') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: var(--light-text-color);
+    position: relative;
+}
+
 .hero::before {
     content: '';
     position: absolute;
