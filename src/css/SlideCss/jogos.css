@@ -1,34 +1,28 @@
 .panel:nth-child(1) {
   /*background: #222;*/
-  background-image: url("https://picsum.photos/id/237/536/354");
+  background-image: url("../../res/jogos/1.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .panel:nth-child(2) {
-    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
+    background: url("../../res/jogos/jogos/2.png") no-repeat center center/cover;
 }
 
 .panel:nth-child(3) {
-    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
+    background: url("../../res/jogos/3.png") no-repeat center center/cover;
 }
 
 .panel:nth-child(4) {
-    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
+    background: url("../../res/jogos/4.png") no-repeat center center/cover;
 }
 
 .panel:nth-child(5) {
-    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
+    background: url("../../res/jogos/5.png") no-repeat center center/cover;
 }
 
 .panel:nth-child(6) {
-    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
+    background: url("../../res/jogos/6.png") no-repeat center center/cover;
 }
 
-.panel:nth-child(7) {
-    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
-}
 
-.panel:nth-child(8) {
-    background: url("https://picsum.photos/id/241/1920/1080") no-repeat center center/cover;
-}

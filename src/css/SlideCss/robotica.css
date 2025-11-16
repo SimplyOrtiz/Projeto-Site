@@ -1,0 +1,38 @@
+.panel:nth-child(1) {
+  /*background: #222;*/
+  background-image: url("../../res/robotica/1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.panel:nth-child(2) {
+    background: url("../../res/robotica/2.png") no-repeat center center/cover;
+}
+
+.panel:nth-child(3) {
+    background: url("../../res/robotica/3.png") no-repeat center center/cover;
+}
+
+.panel:nth-child(4) {
+    background: url("../../res/robotica/4.png") no-repeat center center/cover;
+}
+
+.panel:nth-child(5) {
+    background: url("../../res/robotica/5.png") no-repeat center center/cover;
+}
+
+.panel:nth-child(6) {
+    background: url("../../res/robotica/6.png") no-repeat center center/cover;
+}
+
+.panel:nth-child(7) {
+    background: url("../../res/robotica/7.png") no-repeat center center/cover;
+}
+.panel:nth-child(8) {
+    background: url("../../res/robotica/8.png") no-repeat center center/cover;
+}
+.panel:nth-child(9) {
+    background: url("../../res/robotica/9.png") no-repeat center center/cover;
+}
+
+
