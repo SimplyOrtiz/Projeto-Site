@@ -1,8 +1,8 @@
 .panel:nth-child(1) {
-  /*background: #222;*/
-  background-image: url("../../res/jogos/1.png");
-  background-repeat: no-repeat;
-  background-size: cover;
+    /*background: #222;*/
+    background-image: url("../../res/jogos/1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .panel:nth-child(2) {
@@ -24,5 +24,3 @@
 .panel:nth-child(6) {
     background: url("../../res/jogos/6.png") no-repeat center center/cover;
 }
-
-
