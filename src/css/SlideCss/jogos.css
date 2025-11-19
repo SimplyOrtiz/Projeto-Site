@@ -24,3 +24,7 @@
 .panel:nth-child(6) {
     background: url("../../res/jogos/6.png") no-repeat center center/cover;
 }
+
+.panel:nth-child(7) {
+    background: url("../../res/jogos/7.png") no-repeat center center/cover;
+}

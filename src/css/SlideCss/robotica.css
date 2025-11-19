@@ -34,5 +34,7 @@
 .panel:nth-child(9) {
     background: url("../../res/robotica/9.png") no-repeat center center/cover;
 }
-
+.panel:nth-child(10) {
+    background: url("../../res/robotica/10.png") no-repeat center center/cover;
+}
 
