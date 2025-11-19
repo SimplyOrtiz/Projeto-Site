@@ -34,6 +34,29 @@ body{
     backdrop-filter: blur(4px);
 }
 
+#navbar {
+    position: fixed;
+    top: 0;
+    overflow: hidden;
+    background-color: none;
+    z-index: 999;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color: var(--light-text-color);
+    text-align: center;
+    /* padding: 14px; */
+    text-decoration: none;
+}
+
+.logo {
+    height: 10em;
+    filter: drop-shadow(2px 4px 6px black);
+    border-radius: 100%;
+}
+
 /* ### Most of the code below is taken from Uiverse.io by akshat-patel28 ### */ 
 /* I've modified a bit to fit my needs */
 
