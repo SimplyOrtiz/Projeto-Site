@@ -20,8 +20,18 @@ body{
     margin: 0;
 
     background-color: #191A19;
-    background-image: url("../res/imgs/endless-constellation-Light.svg");
+    /*background-image: url("../res/imgs/endless-constellation-Light.svg");*/
     /*background-image: url("../res/imgs/endless-constellation-Dark.svg");*/
+
+    background-image: url("../res/bela-vista-da-cidade.jpg");
+    background-size: cover;
+}
+
+.blur-item{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    backdrop-filter: blur(4px);
 }
 
 /* ### Most of the code below is taken from Uiverse.io by akshat-patel28 ### */ 
@@ -43,6 +53,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
     border-radius: 10px;
     box-sizing: border-box;
     padding: 20px 30px;
+    z-index: 20;
 }
   
 .title {
